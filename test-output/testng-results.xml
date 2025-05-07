@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="7" total="12" passed="5" failed="0" skipped="0">
+<testng-results ignored="7" total="10" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-04T15:55:09 EET" name="Default suite" finished-at="2025-05-04T15:55:17 EET" duration-ms="8396">
+  <suite started-at="2025-05-07T18:40:11 EET" name="Default suite" finished-at="2025-05-07T18:40:35 EET" duration-ms="24210">
     <groups>
     </groups>
-    <test started-at="2025-05-04T15:55:09 EET" name="Default test" finished-at="2025-05-04T15:55:17 EET" duration-ms="8396">
+    <test started-at="2025-05-07T18:40:11 EET" name="Default test" finished-at="2025-05-07T18:40:35 EET" duration-ms="24210">
       <class name="AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest">
-        <test-method is-config="true" signature="MySetUp()[pri:0, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:09 EET" name="MySetUp" finished-at="2025-05-04T15:55:13 EET" duration-ms="3851" status="PASS">
+        <test-method is-config="true" signature="MySetUp()[pri:0, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@23fb172e]" started-at="2025-05-07T18:40:11 EET" name="MySetUp" finished-at="2025-05-07T18:40:15 EET" duration-ms="4642" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MySetUp -->
-        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:13 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-04T15:55:14 EET" duration-ms="1224" status="PASS">
+        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@23fb172e]" started-at="2025-05-07T18:40:15 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-07T18:40:16 EET" duration-ms="1071" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ChangeTheWebsiteLanaguage -->
-        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:14 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-04T15:55:15 EET" duration-ms="927" status="PASS">
+        <test-method signature="RandomlySelectCity()[pri:9, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@23fb172e]" started-at="2025-05-07T18:40:16 EET" name="RandomlySelectCity" finished-at="2025-05-07T18:40:23 EET" duration-ms="6199" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ChangeTheWebsiteLanaguage -->
-        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:15 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-04T15:55:16 EET" duration-ms="707" status="PASS">
+        </test-method> <!-- RandomlySelectCity -->
+        <test-method signature="CheckTheResultsIsretrived()[pri:10, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@23fb172e]" started-at="2025-05-07T18:40:23 EET" name="CheckTheResultsIsretrived" finished-at="2025-05-07T18:40:35 EET" duration-ms="12189" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ChangeTheWebsiteLanaguage -->
-        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:16 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-04T15:55:17 EET" duration-ms="809" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ChangeTheWebsiteLanaguage -->
-        <test-method signature="ChangeTheWebsiteLanaguage()[pri:8, instance:AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest@2ceb80a1]" started-at="2025-05-04T15:55:17 EET" name="ChangeTheWebsiteLanaguage" finished-at="2025-05-04T15:55:17 EET" duration-ms="793" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ChangeTheWebsiteLanaguage -->
+        </test-method> <!-- CheckTheResultsIsretrived -->
       </class> <!-- AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

@@ -5,7 +5,7 @@
     <classes>
       <class name="AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest">
         <methods>
-          <include name="CheckTheWebSiteLunguage"/>
+          <include name="RandomlySelectCity"/>
           <include name="MySetUp"/>
         </methods>
       </class> <!-- AutomationFinaleProject_April.AutomationFinaleProject_April.AppTest -->
